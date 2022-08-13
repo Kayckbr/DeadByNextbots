@@ -7,7 +7,7 @@ and place this mod pak inside Paks folder.
 
 How to Download DBD 5.7.2:
 
-** Downgrading Dead by Daylight (to 5.7.2) >
+> Downgrading Dead by Daylight (to 5.7.2) >
 
 * Press Win + R and enter steam://open/console
 * Enter download_depot 381210 381211 196577578371581026 in the Steam console
