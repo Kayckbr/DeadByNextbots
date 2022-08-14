@@ -15,9 +15,9 @@ How to Download DBD 5.7.2:
 
 Files will be located in **steamapps\content\app_381210\** when the depot download is complete.
 
-#Notes:
+# Notes:
 
-Buffs:
+## Buffs:
 Killer speed incresed to 7%
 RedStain is hidden.
 TerrorRadius is 64.
