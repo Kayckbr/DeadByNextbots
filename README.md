@@ -1,5 +1,6 @@
 # DeadByNextbots - Hillbilly
 Mod For DBD 5.7.2 that changes a killer model and adds features to it.
+Recommended playing your first matchs on lerys map.
 
  **Go to C:\Program Files (x86)\Steam\steamapps\content\app_381210\depot_381211\DeadByDaylight\Content\Paks**
 
@@ -13,3 +14,10 @@ How to Download DBD 5.7.2:
 * Enter **download_depot 381210 381211 196577578371581026** in the Steam console
 
 Files will be located in **steamapps\content\app_381210\** when the depot download is complete.
+
+#Notes:
+
+Buffs:
+Killer speed incresed to 7%
+RedStain is hidden.
+TerrorRadius is 64.
