@@ -16,6 +16,7 @@ How to Download DBD 5.7.2:
 Files will be located in **steamapps\content\app_381210\** when the depot download is complete.
 
 # Notes:
+- The Killer should be a bot. If you are the only one playing, after `Ready` Lobby Controls will appear, select the last option(Killers) and go all the way down, he is before the last Killer.
 
 Buffs:
 - Killer speed increased to 7%
