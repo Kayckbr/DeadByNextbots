@@ -3,6 +3,7 @@
 # DeadByNextbots - Hillbilly
 Mod For DBD 5.7.2 that changes a killer model and adds features to it.
 - Is recommended playing your first matches on lerys map.
+- You can also download Lightning changer and change the light to Industrial_Alt and use command `camera firstperson` for firstperson mode from Console Mod by Displayk
 
 
 # Installation
