@@ -2,7 +2,7 @@
 
 # DeadByNextbots - Hillbilly
 Mod For DBD 5.7.2 that changes a killer model and adds features to it.
-- Is recommended playing your first matchs on lerys map.
+- Is recommended playing your first matches on lerys map.
 
 
 # Installation
