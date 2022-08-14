@@ -20,5 +20,5 @@ Files will be located in **steamapps\content\app_381210\** when the depot downlo
 Buffs:
 - Killer speed increased to 7%
 - RedStain is hidden.
-- TerrorRadius is 64.
+- TerrorRadius is 64m.
 
