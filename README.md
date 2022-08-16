@@ -24,7 +24,7 @@ Files will be located in **steamapps\content\app_381210\** when the depot downlo
 
 
 # Notes:
-- The Killer should be a bot. If you are the only one playing, after `Ready` Lobby Controls will appear, select the last option(Killers) and go all the way down, he is before the last Killer.
+- The Killer should be a bot. If you are the only one playing, after `Ready` Lobby Controls will appear, select the last option(Killers) and go all the way down, he is the one before the last Killer.
 - TerrorRadius Audio were taken from SOMA audios by frictional games(amazing fricking game) https://www.youtube.com/watch?v=RMVWpkps1Hk
 
 
