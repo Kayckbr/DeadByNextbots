@@ -29,7 +29,7 @@ Files will be located in **steamapps\content\app_381210\** when the depot downlo
 
 
 Buffs:
-- Killer speed increased to 7%
+- Killer recover time from successfull hits increased to 50%
 - RedStain is hidden.
 - TerrorRadius is 64m.
 
